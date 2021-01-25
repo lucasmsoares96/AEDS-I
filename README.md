@@ -1,4 +1,5 @@
-# Terceira Etapa do Algoritmo de Recomendacao(LRU)
+# Algoritmos e Estruturas de Dados
+## Terceira Etapa do Algoritmo de Recomendacao(LRU)
 Lucas Martins Soares
 
 ## Relatório do gráfico da medida de tempo dos metodos de ordenação:
@@ -23,7 +24,7 @@ O método MergeSort não entrou na estatística pois apresentou um erro no mallo
 
 O tempo total de execução de cada método foi obtido da seguinte forma:
 
-```
+```C++
 #include "time.h"
 
   inicio = clock();
